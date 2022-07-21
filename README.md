@@ -3,5 +3,5 @@ Spin Quantum Gate Lab is a set of python codes that calculate the device-level c
 
 An online simulation tool of SpinQugate Lab is avaialbe at nanoHub [https://nanohub.org/resources/spinqugate](https://nanohub.org/resources/spinqugate).
 
-#Examples
-Examples of using the code to simulate Quantum Gates are available at [https://nanohub.org/resources/spinqugate/supportingdocs]{https://nanohub.org/resources/spinqugate/supportingdocs}
+# Examples
+Examples of using the code to simulate Quantum Gates are available at [https://nanohub.org/resources/spinqugate/supportingdocs].
